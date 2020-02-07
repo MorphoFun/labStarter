@@ -9,7 +9,7 @@ Here is a road map for the proposed activities!
 
 ### Milestone: short-term (develop repo)
 #### Tasks
-- [ ] Create a GitHub repo
+- [x] Create a GitHub repo
 - [ ] Add initial resources to GitHub repo
 - [ ] Draft templates of lab policy documents
 
