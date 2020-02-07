@@ -6,6 +6,9 @@ There are many websites that have done a tremendous job touching upon various to
 ## Code of Conduct examples for labs
 
 
+## Contribution guideline examples
+* [4OSS: Define clear and transparent contribution, governance and communication proces](https://softdev4research.github.io/4OSS-lesson/04-contributions/index.html): 
+
 ## Mentoring plans
 
 
