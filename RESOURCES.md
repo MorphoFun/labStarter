@@ -4,10 +4,11 @@ There are many websites that have done a tremendous job touching upon various to
 
 
 ## Code of Conduct examples for labs
+* [DeepLabCut: Code of Conduct](https://github.com/AlexEMG/DeepLabCut/blob/master/CODE_OF_CONDUCT.md)
 
 
 ## Contribution guideline examples
-* [4OSS: Define clear and transparent contribution, governance and communication proces](https://softdev4research.github.io/4OSS-lesson/04-contributions/index.html): 
+* [4OSS: Define clear and transparent contribution, governance and communication proces](https://softdev4research.github.io/4OSS-lesson/04-contributions/index.html)
 
 ## Mentoring plans
 
