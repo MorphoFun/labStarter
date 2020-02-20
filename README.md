@@ -27,3 +27,5 @@ Here is a road map for the proposed activities!
 - [ ] Evaluate who the users are (based on stars on GitHub)
 - [ ] Prepare Google Form for users to solicit their feedback
 
+### Here is a draft of my Open Canvas for my project and its potential impacts on the community
+![OpenCanvas](https://drive.google.com/file/d/1KBqTJQeJ0I4Tu3xgQu1Te_vobMukkg_A/view?usp=sharing)
