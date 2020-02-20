@@ -28,4 +28,4 @@ Here is a road map for the proposed activities!
 - [ ] Prepare Google Form for users to solicit their feedback
 
 ### Here is a draft of my Open Canvas for my project and its potential impacts on the community
-![OpenCanvas](https://drive.google.com/file/d/1KBqTJQeJ0I4Tu3xgQu1Te_vobMukkg_A/view?usp=sharing)
+![OpenCanvas](https://github.com/MorphoFun/labStarter/blob/master/images/Kawano_OLS_OpenCanvas.jpg)
