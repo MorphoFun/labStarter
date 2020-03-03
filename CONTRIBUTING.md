@@ -15,7 +15,7 @@ Anyone interested in advancing transparency, reproducibility, and inclusivity in
 * Comment on existing issues (this helps to build community along our users while also applying your unique areas of expertise!)
 
 ## How to Submit a Pull Request
-Please read these instructions on how to submit a pull request on GitHub: https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests. When submitting a pull request, please include a clear and concise description of the changes you are proposing. If applicable, please also include a short description about how these changes might be helpful for others (e.g., "added new template for writing a mentoring plan for students seeking careers outside of academia (previous documents focused on only academic job seekers"). 
+Please read these instructions on how to submit a pull request on GitHub: https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests. When submitting a pull request, please include a clear and concise description of the changes you are proposing. If applicable, please also include a short description about how these changes might be helpful for others (e.g., "added new template for writing a mentoring plan for students seeking careers outside of academia because previous documents focused on only academic job seekers"). 
 
 ## What is the best way to communicate with other contributors?
 * GitHub: users and contributors are encouraged to post questions, feature requests, or bugs to the issues tab of this repo. 
